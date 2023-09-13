@@ -1,7 +1,16 @@
-<h2 align="center">PSDB Program Resources</h2>
-<h3 align="left">Project Link:</h3>
-<p>https://github.com/Englishexe/psdb</p>
-<h3>About:</h3>
-<p>Resource repository</p>
-<h3>Disclaimer</h3>
-<p>THis repository falls under the PSDB legal agreement and the GPL3.0 license</p>
+# PSDB Program Resources
+**Contents:**
+- [About](#about)
+- [Legal](#legal)
+- [Links](#links)
+## About
+This repository holds the core files that PSDB needs to operate, this often happens in the background of PSDB. If you don't want PSDB to make network requests download the version marked with **-N**
+## Legal
+This repository falls under the PSDB legal agreement and the GPL-3.0 license, refer back to the [main repository](https://github.com/Englishexe/psdb) for more information.
+## Links
+[Main repository](https://github.com/Englishexe/psdb)\
+**Placeholder** [PSDB Documentation](https://github.com/Englishexe/psdb)\
+**Placeholder** [PSDB Legal](https://github.com/Englishexe/psdb)
+
+13/09/23\
+Englishexe
