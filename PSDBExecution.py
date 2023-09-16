@@ -3,5 +3,3 @@
 import pythondatabase, time
 pythondatabase.settings(True, True, True, True)
 pythondatabase.start()
-pythondatabase.info()
-# Source file: https://raw.githubusercontent.com/Englishexe/psdb-program-resources/main/PSDBExecution.py/
