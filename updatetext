@@ -1,8 +1,7 @@
-======== PSDB UPDATE ========
-PSDB is updating, do not interupt.
+================ PSDB UPDATE ================
+PSDB is updating, please do not interupt.
 
-Current Version: ^^v^^
-Updating Version: ^^currentversion^^
+Version: ^^v^^ --> ^^currentversion^^
+See the update log here: https://github.com/englishexe/psdb/wiki/_Release-Notes
 
-See progress below
-
+See log below:
