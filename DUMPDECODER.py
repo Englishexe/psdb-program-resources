@@ -36,7 +36,7 @@ print("Decoded text:")
 print(Text)
 print("=======")
 Text = Text.split("|")
-List = ["V       ", "RAWURL  ", "HideNet ", "Output  ", "#DB     ", "DBs     ", "Started ", "Debug   ", "Maindir ", "CWD     ", "error#  ", "Time    ", "Date    ", "Response"]
+List = ["V       ", "RAWURL  ", "HideNet ", "Output  ", "#DB     ", "DBs     ", "Started ", "Debug   ", "Maindir ", "CWD     ", "error#  ", "Last Maj", "badChars", "Time    ", "Date    ", "Response"]
 try:
     counter = 0
     print("Fancy Text:")
